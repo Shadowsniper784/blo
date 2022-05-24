@@ -1,7 +1,7 @@
 {
-	"title": "Glixzzy Scripts",
-	"description": "Add Glixzzy's scripts to the GUI. Learn how to open the GUI by going to https://thatfrueddued.github.io/blooket-utility.",
-	"author": "ThatFruedDued",
+	"title": "Eruda",
+	"description": "Add Eruda console.",
+	"author": "Shadowsniper784",
 	"url": "https://raw.githubusercontent.com/Shadowsniper784/blo/main/injectable.json",
 	"scripts": [
 		"https://raw.githubusercontent.com/Shadowsniper784/blo/main/index.js"
